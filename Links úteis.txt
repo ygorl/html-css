@@ -1,0 +1,3 @@
+Tipos de midias
+image/png, video/mp4
+https://www.iana.org/assignments/media-types/media-types.xhtml
